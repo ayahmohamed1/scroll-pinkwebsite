@@ -24,16 +24,9 @@ const defaultGift: GiftData = {
   birthdayImage: "/images/birthday-aya.png",          // صورة الهدية النهائية
   accentColor: "#38bdf8",                             // اللون الأزرق الفاتح المتوافق مع التصميم الجديد
   musicUrl: "",                                       // رابط الموسيقى هنا
-  message: `From the very moment you came into my life, everything changed for the better. You brought a warmth and a light that I never knew I was missing. Every little detail about you—your smile, your laughter, and the way you 
-  caremakes me fall deeper in love with you every single day.Thank you for being my safe place, my greatest comfort,
- and the absolute best part of my everyday life. No matter where life takes us or what tomorrow brings,
- I want you to know that my heart will always belong to you,
-and I will always choose you, over and over againNo matter where life takes us or what tomorrow bringsand the absolute best part of my everyday life. 
-From the very moment you came into my life, everything changed for the better. You brought a warmth and a light that I never knew I was missing. Every little detail about you—your smile, your laughter, and the way you 
-  caremakes me fall deeper in love with you every single day.Thank you for being my safe place, my greatest comfort,
- and the absolute best part of my everyday life. No matter where life takes us or what tomorrow brings,
- I want you to know that my heart will always belong to you,
-and I will always choose you, over and over againNo matter where life takes us or what tomorrow bringsand the absolute best part of my everyday life.`,
+  message: `Kol sana w enta tayeb ya Koty Koty ♥️🫵🏻Happy birthday to my favorite person💋 🫶🏻 
+Ana ba7ebak awy awy w batmanna kol sana teb2a a7la 3aleek w tefdal dayman mabsoot  ♥️
+I love you more y 7ayaty ♥️`,
 };
 
 const giftData: Record<string, GiftData> = {
